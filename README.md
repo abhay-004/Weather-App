@@ -2,11 +2,6 @@
 
 A simple and responsive Weather Application built using **HTML**, **CSS**, and **JavaScript**. This app fetches real-time weather data using a public API and displays the current weather conditions for any city in the world.
 
-
-## 📸 Preview
-
-![Weather App Screenshot](weather.png)  
-
 ## 🚀 Features
 
 - Search weather by city name
