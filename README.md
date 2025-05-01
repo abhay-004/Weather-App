@@ -9,6 +9,7 @@ A simple and responsive Weather Application built using **HTML**, **CSS**, and *
 ## 📸 Preview
 
 ![Password Generator Screenshot](./screenshot/weather1.PNG)
+![Password Generator Screenshot](./screenshot/weather2.PNG)
 
 ## 🚀 Features
 
