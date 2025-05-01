@@ -6,6 +6,9 @@ A simple and responsive Weather Application built using **HTML**, **CSS**, and *
 
 👉 [View Live Demo](https://weather-app-004-abhay.netlify.app/)  
 
+## 📸 Preview
+
+![Password Generator Screenshot](./screenshot/weather1.PNG)
 
 ## 🚀 Features
 
