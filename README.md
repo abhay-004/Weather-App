@@ -4,7 +4,7 @@ A simple and responsive Weather Application built using **HTML**, **CSS**, and *
 
 ## 🌐 Live Demo
 
-👉 [View Live Demo](https://abhay-004.github.io/Weather-App/)  
+👉 [View Live Demo](https://weather-app-004-abhay.netlify.app/)  
 
 
 ## 🚀 Features
